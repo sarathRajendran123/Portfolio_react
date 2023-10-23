@@ -1,4 +1,4 @@
-const logotext = "ASWIN";
+const logotext = "SARATH";
 const meta = {
     title: "Sarath Rajendran",
     description: "I'm Sarath Rajendran, Student at VIT Bhopal University",
